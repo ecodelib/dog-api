@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DogApi example 2</string>
+    <string name="get_dog_shot">Get Dog shot random (HandlerThread)</string>
+    <string name="get_dog_shot1">Get Dog shot random (ExecutorService)</string>
+    <string name="https_service">https://dog.ceo/api/breeds/image/random</string>
+    <string name="dog_setter_nouse">https://images.dog.ceo/breeds/setter-gordon/n02101006_114.jpg</string>
+    <string name="message_server_disable">Сервер не доступен</string>
+</resources>
